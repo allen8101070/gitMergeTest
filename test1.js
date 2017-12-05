@@ -1,7 +1,7 @@
-for (let i = 0; i < 10; i++){
+for (let i = 0; i < 5; i++){
   console.log(i)
 }
 function dudu() {
-  var app = 100
-  alert("超過" + app + "分")
+  var app = 60
+  alert("居然不到" + app + "分")
 }
